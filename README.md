@@ -6,3 +6,4 @@ A CRUD app built in flask framework, uses CSV for data storage and JWT for authe
 - delete, search user (admin access required)
 - search restaurant
 - create, delete restaurant (admin access required)
+- create, modify booking
